@@ -9,5 +9,6 @@
      + trang khóa học
      + trang thành tích
      + trang website
-2. Công cụ được sử dụng:
-   html, css, javascript,...
+2. phần mềm và ngôn ngữ được sử dụng:
+   vs code, photoshop cc
+   html, css, javascript
